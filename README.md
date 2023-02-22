@@ -19,7 +19,7 @@ f(x)
 and 3 using the following set of data 
 a.  Hint, create the table first 
 b.  
-x f(x) 
+x 
 7.2 
 7.4 
 7.5  
